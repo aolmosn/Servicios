@@ -1,0 +1,22 @@
+{
+  "name": "servicios",
+  "version": "0.0.1",
+  "description": "mi proyecto servicios",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aolmosn/Servicios.git"
+  },
+  "author": "aolmos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aolmosn/Servicios/issues"
+  },
+  "homepage": "https://github.com/aolmosn/Servicios#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

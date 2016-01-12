@@ -1,0 +1,25 @@
+{
+  "name": "servicios",
+  "description": "mi proyecto servicios",
+  "main": "index.html",
+  "authors": [
+    "Andrés Felipe Olmos Navia"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aolmosn/Servicios",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0",
+    "font-awesome": "~4.5.0"
+  }
+}
